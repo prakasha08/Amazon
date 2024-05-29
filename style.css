@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    background-color: #0f1111;
+    height: 60px;
+    color: white;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+    background-size: cover;
+    background-image:url(./chattogram-bangladesh-april-24-2023-260nw-2292992631.webp) ;
+}
